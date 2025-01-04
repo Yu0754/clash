@@ -1,11 +1,6 @@
 payload:
   # > OT Relay
 ####
-# Claude
-  - DOMAIN,api.claude.ai
-# ChatGPT
-  - DOMAIN,ab.chatgpt.com
-  - DOMAIN,ios.chat.openai.com
 # DisneyPlus
   - DOMAIN,disney.api.edge.bamgrid.com
 # HBO MAX
