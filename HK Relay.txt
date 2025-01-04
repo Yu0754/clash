@@ -16,6 +16,9 @@ payload:
 # ChatGPT
   - DOMAIN,ab.chatgpt.com
   - DOMAIN,ios.chat.openai.com
+# IPTV
+  - DOMAIN-KEYWORD,fanmingming
+  - DOMAIN-KEYWORD,stream-link
 # RTHK
   - DOMAIN-KEYWORD,rthk
 # TVB
