@@ -1,16 +1,6 @@
 payload:
   # > OT Relay
 ####
-# Bing
-  - DOMAIN,www.bing.com
-# Copilot
-  - DOMAIN,copilot.microsoft.com
-  - DOMAIN,gateway-copilot.bingviz.microsoftapp.net
-# Google
-  - DOMAIN,www.google.com
-# Gemini
-  - DOMAIN,gemini.google.com
-  - DOMAIN,proactivebackend-pa.googleapis.com
 # Claude
   - DOMAIN,api.claude.ai
 # ChatGPT
