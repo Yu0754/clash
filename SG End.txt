@@ -1,5 +1,3 @@
 payload:
   # > SG End
 ####
-# FMM
-  - DOMAIN-KEYWORD,fanmingming
