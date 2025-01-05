@@ -1,3 +1,6 @@
 payload:
   # > US Landing
 ####
+# IPTV
+  - DOMAIN-KEYWORD,fanmingming
+  - DOMAIN-KEYWORD,stream-link
