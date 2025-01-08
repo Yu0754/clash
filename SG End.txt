@@ -1,3 +1,5 @@
 payload:
   # > SG End
 ####
+# Stream Link
+  - DOMAIN-KEYWORD,stream-link
