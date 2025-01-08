@@ -1,5 +1,3 @@
 payload:
   # > PC Man
 ####
-# FMM
-  - DOMAIN-KEYWORD,fanmingming
