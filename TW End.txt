@@ -1,5 +1,3 @@
 payload:
   # > TW End
 ####
-# Stream Link
-  - DOMAIN-KEYWORD,stream-link
