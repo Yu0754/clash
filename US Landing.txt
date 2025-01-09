@@ -1,5 +1,3 @@
 payload:
   # > US Landing
 ####
-# Stream Link
-  - DOMAIN-KEYWORD,stream-link
